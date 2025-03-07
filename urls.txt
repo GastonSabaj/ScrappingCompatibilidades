@@ -1,0 +1,3 @@
+https://www.hipervarejo.com.br/api/catalog_system/pub/products/search/sensor-freio-abs-fiat-siena-2012-a-2015-dianteiro-passageiro/p?compSpecs=true
+https://www.hipervarejo.com.br/api/catalog_system/pub/products/search/jogo-anel-segmento-std-boxer-ducato-jumper-2-3-16v-mahle-dc8770/p?compSpecs=true
+https://www.hipervarejo.com.br/api/catalog_system/pub/products/search/rolamento-alternador-honda-fit-1-4-toyota-hilux-2-5-3-0-bosch-1986ae4594/p?compSpecs=true

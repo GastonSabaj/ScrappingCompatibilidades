@@ -1,0 +1,5 @@
+### Probar el endpoint raíz
+GET http://127.0.0.1:8000/
+
+### Probar un endpoint con parámetro
+GET http://127.0.0.1:8000/saludo/Gastón

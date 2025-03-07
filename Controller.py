@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from ScrappingPython import get_json_from_url, extract_brands_and_models
+from ScrappingCompatibilidadesPython import get_json_from_url, extract_brands_and_models
 
 app = FastAPI()
 
